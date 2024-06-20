@@ -29,6 +29,15 @@ introduce a taxonomy of eight vulnerabilities for evaluation guidelines;  Furthe
 
 # Citation
 Please cite our work if you find it useful.
-> To be released
+```
+@inproceedings{ruan2024defining,
+  title={Defining and Detecting Vulnerability in Human Evaluation Guidelines: A Preliminary Study Towards Reliable NLG Evaluation},
+  author={Ruan, Jie and WangWenqing, WangWenqing and Wan, Xiaojun},
+  booktitle={Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)},
+  pages={7958--7982},
+  year={2024}
+}
+```
+
 
 
